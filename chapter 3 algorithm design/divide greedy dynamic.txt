@@ -1,0 +1,16 @@
+Divide and conquer:
+parte un problema grande en parte mas pequeñas y al final unse los resultados
+para la solucion, usa la recursion o recursividad
+
+Greedy algorithm:
+se encuentras varias soluciones al mismo problema y lo que se hace es
+opitimar para seleccionar cual de todas las soluciones es la mejor
+
+Dynamic programming:
+its a divide and conquer problem but the issue here is that the solutions
+to each sub-problem overlaps. with dynamic programming, intermediate results
+are cached and can be used in subsequent operations.
+dynamic programming allows us to compare results at different stages.
+
+the matrix chain multiplication problem can be solved using dynamic
+programming.
