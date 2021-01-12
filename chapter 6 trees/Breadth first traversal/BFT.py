@@ -1,3 +1,4 @@
+"""Para trees perfectos? """
 class Queue(object):
     def __init__(self):
         self.items = []
